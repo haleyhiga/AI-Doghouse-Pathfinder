@@ -7,7 +7,7 @@ has a model to support classic search as well as being used
 for reinforcement learning (the primary purpose of most 
 gymnasium environments).
 
-Farama has a [turtorial](https://gymnasium.farama.org/tutorials/gymnasium_basics/environment_creation/)
+Farama has a [tutorial](https://gymnasium.farama.org/tutorials/gymnasium_basics/environment_creation/)
 on creating your own custom environment. Those instructions
 were used, along with the requirements of having an 
 environment model that can be plugged into classical
