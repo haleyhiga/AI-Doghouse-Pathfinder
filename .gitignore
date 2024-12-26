@@ -156,8 +156,9 @@ cython_debug/
 
 # OS files
 .DS_Store
+._.DS_Store
 **/.DS_Store
-
+**/._.DS_Store
 
 
 # PyCharm
