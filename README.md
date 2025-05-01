@@ -1,6 +1,8 @@
 Doghouse Pathfinder
 -------------
 
+![image](/demonstration-image.png)
+
 This is a simple environment to demonstrate creation of a
 [gymnasium](https://gymnasium.farama.org/) environment that
 has a model to support classic search as well as being used
