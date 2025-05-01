@@ -1,14 +1,15 @@
 Doghouse Pathfinder
 -------------
 
-![image](/demonstration-image.png)
-
 This is a simple environment to demonstrate creation of a
 [gymnasium](https://gymnasium.farama.org/) environment that
 has a model to support classic search as well as being used
 for reinforcement learning (the primary purpose of most 
 gymnasium environments).
 
+<p align="center">
+  <img src="demonstration-image.png" alt="Demo" width=50%/>
+</p>
 Farama has a [tutorial](https://gymnasium.farama.org/tutorials/gymnasium_basics/environment_creation/)
 on creating your own custom environment. Those instructions
 were used, along with the requirements of having an 
